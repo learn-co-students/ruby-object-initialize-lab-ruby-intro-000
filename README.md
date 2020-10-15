@@ -11,7 +11,7 @@
 You're going to be building a `Person` class that accepts a person's name when a
 person is initialized. You're also going to be building a `Dog` class that
 accepts a dog's name and breed on initialization. If no value for the dog's
-breed is provided, it should default to `"Mutt"`
+breed is provided, it should set default to `"Mutt"`
 
 ## Instructions
 
